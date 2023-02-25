@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "^3.2.0"
+  },
+  "dependencies": {
+    "@formkit/addons": "^1.0.0-beta.15",
+    "@formkit/nuxt": "^1.0.0-beta.15",
+    "@formkit/themes": "^1.0.0-beta.15",
+    "@nuxtjs/tailwindcss": "^6.4.1",
+    "@vueform/multiselect": "^2.5.8"
+  }
+}
